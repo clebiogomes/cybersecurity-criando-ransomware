@@ -1,0 +1,1 @@
+Desafio entendendo um Ransomware com python - Cybersecurity na Pratica.
